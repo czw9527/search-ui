@@ -3,7 +3,7 @@
  * @version: v1.0.0
  * @Date: 2020-02-17 21:15:01
  * @LastEditors: wangshuhao
- * @LastEditTime: 2020-02-18 22:18:23
+ * @LastEditTime: 2020-02-18 22:43:31
  * @Author: wangshuhao <https://wangshuhao.com>
  -->
 
@@ -55,8 +55,6 @@ $ yarn generate
 - ...
 
 - 等待部分第三方模块升级 core-js 至 ^3.0.0 版本
-
-- 更新 lint-staged 至 ^10.0.0 版本以获取更快速的 pre-commit
 
 - 利用现有 vue2 生态使本项目支持 vue3 的一些重要理念及开发模式
 
