@@ -12,3 +12,10 @@
     hello search-ui!
   </div>
 </template>
+
+<style>
+div {
+  width: 200px;
+  height: 200px;
+}
+</style>
